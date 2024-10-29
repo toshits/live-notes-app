@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 20px;
+}
+.saluation{
+    text-transform: capitalize;
+}
+
+.logoutBtn{
+    display: flex;
+    text-decoration: underline;
+    cursor: pointer;
+}
